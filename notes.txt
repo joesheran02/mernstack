@@ -1,0 +1,17 @@
+divclass=container,divclass=row,divclass=col col-12 col-sm-6 col-md-6 col-mg-6 col-excel-6 col-xxl-6
+
+
+Denotion	Definition
+---------------------------
+col- 		xtrasmall	-> exclusively for mobile phn
+col-sm- 	small		-> 	
+col-md- 	medium
+col-lg- 	large
+col-xl- 	xtralarge
+col-xxl- 	double xtralarge
+
+
+Grid: 	divide screen into 12 parts vertically, to get screen size resolution. 
+	It will be either xtra small/small/medium/large/xtra large/xtra xtra large.
+
+select the line and ctrl+? to comment it
