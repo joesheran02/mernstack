@@ -33,3 +33,42 @@ git commands
 	git commit -m "message"
 	git remote add origin "http-link-of-repository"
 	git push -u origin master 						-> master is the folder name
+
+
+
+employee code text
+name text
+designgnation text
+dob text
+sal text
+cmp name text
+emailid text
+yr_of_exp text
+submit
+
+
+input:date.form-control
+
+
+
+patient app: index.html -> patient name	
+						   mob no 
+						   address textarea : col-12 textarea.form-control
+						   PIN Code textbox
+						   Blood Group dropdown : select.form-control>option*8
+						   Doctor name
+						   email id
+						   password
+						   confirm password
+						   register button
+
+			 search.html -> patient name
+			 				search button
+
+			 delete.html -> patient name
+			 				delete button
+
+			viewall.html -> table from bootstrap container>row>col, inside it, create table
+							headings: patient name, mob no, doctor name, email id
+							10 patients
+
